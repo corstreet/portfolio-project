@@ -160,6 +160,10 @@ a.active
 	justify-content:space-around;
 	flex-direction:column;
 }
+.portfolio-h3
+{
+	color:#000;
+}
 .portfolio--item:nth-child(even)
 {
 	background-color:#b7ad8b;
