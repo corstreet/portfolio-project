@@ -1,10 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
 body
 {
 	padding:0;
 	margin:0;
 	height:100%;
-	font-family:Lato,Helvetica,sans-serif;
+	font-family:'Roboto',courier,Helvetica,sans-serif;
 }
+/**********************************
+********************************************************************************
+!!!!BE SURE TO MAKE USE OF MAGICMOCKUPS.COM TO SHOW THE SCREENSHOTS!!!!
+********************************************************************************
+*********************************/
 a
 {
 	text-decoration:none;
@@ -112,7 +119,10 @@ a.active
 }
 .hero-header
 {
-	font-size:3rem;
+	font-size: 3.4rem;
+    font-family: 'Lora', courier;
+    letter-spacing: 2px;
+    margin:0;
 }
 .hero-subheader
 {

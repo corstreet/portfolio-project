@@ -30,7 +30,7 @@ $(document).ready(function(){
 		} else {
 			$('a[href="#work"]').removeClass('active');
 		}	
-		if($( window).scrollTop() + 200 + $(window).height() >= $(document).height() ) {
+		if( scroll + 200 + $(window).height() >= $(document).height() ) {
        		$('li a').removeClass('active');
 			$('a[href="#contact"]').addClass('active');
 		} else {
