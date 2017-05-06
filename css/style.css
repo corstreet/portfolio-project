@@ -5,7 +5,7 @@ body
 	padding:0;
 	margin:0;
 	height:100%;
-	font-family:'Roboto',courier,Helvetica,sans-serif;
+	font-family:'Roboto',Helvetica,sans-serif;
 }
 /**********************************
 ********************************************************************************
@@ -120,7 +120,7 @@ a.active
 .hero-header
 {
 	font-size: 3.4rem;
-    font-family: 'Lora', courier;
+    font-family: 'Lora',Helvetica,sans-serif;
     letter-spacing: 2px;
     margin:0;
 }
